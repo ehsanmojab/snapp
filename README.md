@@ -82,11 +82,11 @@ npm run dev
 
 - Login credentials:
 
--- Admin: admin / admin
+- Admin: admin / admin
 
---- Driver: driver / driver
+- Driver: driver / driver
 
--- User: user / user
+- User: user / user
 
 ## 📁 Project Structure
 
