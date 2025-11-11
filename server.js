@@ -14,12 +14,12 @@ const db = mysql.createConnection({
 
 // connect to mysql
 db.connect((err) => {
-  // if (err) {
-  //   if (err.sqlState === "42000") {
-  //     return;
-  //   }
-  //   throw err;
-  // }
+  if (err) {
+    if (err.sqlState === "42000") {
+      return;
+    }
+    throw err;
+  }
   console.log("Connected to MySQL");
 });
 
