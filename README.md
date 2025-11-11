@@ -2,6 +2,9 @@
 
 A full-stack web application for managing Snapp ride-hailing service operations with Vue.js frontend and Express.js backend.
 
+<img width="1000" height="680" alt="Trips-screenshot" src="https://github.com/user-attachments/assets/8b73723b-00f2-466f-9bd5-f7de54c20b1f" />
+
+
 ## ✨ Features
 
 ### 👥 User Management
@@ -77,6 +80,9 @@ npm run dev
 ```
 
 5. **Access the application**
+
+<img width="1229" height="768" alt="loginpage-screenshot" src="https://github.com/user-attachments/assets/4e4637a0-8139-4911-8b19-b15acd357a30" />
+
 
 - Open http://localhost:5173
 
